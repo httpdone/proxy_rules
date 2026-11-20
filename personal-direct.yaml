@@ -35,7 +35,7 @@ payload:
   - DOMAIN-SUFFIX,cheeseword.com #奶酪单词
   - DOMAIN-SUFFIX,lottefuture.com #星返
   - DOMAIN-SUFFIX,gaoyong2021.com 
-
+  - DOMAIN-SUFFIX,jetbrains.com
 
   - DOMAIN-WILDCARD,javdb*.com
   - DOMAIN-SUFFIX,blxr5es.com
