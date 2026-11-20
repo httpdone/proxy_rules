@@ -15,9 +15,7 @@ payload:
   - DOMAIN-SUFFIX,47258.xyz
   - DOMAIN-SUFFIX,oaifree.com
   - DOMAIN-SUFFIX,webn.cc
-  - DOMAIN-SUFFIX,cloudflare-gateway.com
-  - DOMAIN-SUFFIX,cloudflare-ech.com
-  - DOMAIN-SUFFIX,cloudflare.com
+
   # ----- Hugging Face 下载 -----
   - DOMAIN-SUFFIX,xethub.hf.co
   # ----- CDN -----
@@ -36,7 +34,9 @@ payload:
   - DOMAIN-SUFFIX,mypikpak.com
   - DOMAIN-SUFFIX,cheeseword.com #奶酪单词
   - DOMAIN-SUFFIX,lottefuture.com #星返
-  - DOMAIN-SUFFIX,gaoyong2021.com 
+  - DOMAIN-SUFFIX,gaoyong2021.com 
+
+
   - DOMAIN-WILDCARD,javdb*.com
   - DOMAIN-SUFFIX,blxr5es.com
   - DOMAIN-SUFFIX,hnhr01.com
