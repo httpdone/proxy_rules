@@ -15,7 +15,7 @@ payload:
   - DOMAIN-SUFFIX,47258.xyz
   - DOMAIN-SUFFIX,oaifree.com
   - DOMAIN-SUFFIX,webn.cc
-
+  - DOMAIN-SUFFIX,edge.1molchuan.top
   # ----- Hugging Face 下载 -----
   - DOMAIN-SUFFIX,xethub.hf.co
   # ----- CDN -----
